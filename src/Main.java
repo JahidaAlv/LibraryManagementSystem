@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 public class Main {
-// Faltu Comments
+
     public static void main(String[] args) {
         LibrarayManager manager = new LibrarayManager();
         Scanner scanner = new Scanner(System.in);
-
+// Hello World
         while (true) {
             // Display menu
             System.out.println("\nLibrary Management System");
